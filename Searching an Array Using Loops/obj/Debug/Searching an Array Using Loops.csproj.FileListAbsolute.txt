@@ -1,0 +1,6 @@
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Searching an Array Using Loops\bin\Debug\Searching an Array Using Loops.exe.config
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Searching an Array Using Loops\bin\Debug\Searching an Array Using Loops.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Searching an Array Using Loops\bin\Debug\Searching an Array Using Loops.pdb
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Searching an Array Using Loops\obj\Debug\Searching an Array Using Loops.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Searching an Array Using Loops\obj\Debug\Searching an Array Using Loops.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Searching an Array Using Loops\obj\Debug\Searching an Array Using Loops.pdb

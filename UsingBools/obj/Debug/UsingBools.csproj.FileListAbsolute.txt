@@ -1,0 +1,7 @@
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\UsingBools\bin\Debug\UsingBools.exe.config
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\UsingBools\bin\Debug\UsingBools.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\UsingBools\bin\Debug\UsingBools.pdb
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\UsingBools\obj\Debug\UsingBools.csprojAssemblyReference.cache
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\UsingBools\obj\Debug\UsingBools.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\UsingBools\obj\Debug\UsingBools.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\UsingBools\obj\Debug\UsingBools.pdb

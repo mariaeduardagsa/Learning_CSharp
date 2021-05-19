@@ -1,0 +1,6 @@
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Operator Overloading\bin\Debug\Operator Overloading.exe.config
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Operator Overloading\bin\Debug\Operator Overloading.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Operator Overloading\bin\Debug\Operator Overloading.pdb
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Operator Overloading\obj\Debug\Operator Overloading.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Operator Overloading\obj\Debug\Operator Overloading.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Operator Overloading\obj\Debug\Operator Overloading.pdb

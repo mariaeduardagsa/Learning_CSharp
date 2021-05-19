@@ -1,0 +1,6 @@
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Numeric Conversions\bin\Debug\Numeric Conversions.exe.config
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Numeric Conversions\bin\Debug\Numeric Conversions.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Numeric Conversions\bin\Debug\Numeric Conversions.pdb
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Numeric Conversions\obj\Debug\Numeric Conversions.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Numeric Conversions\obj\Debug\Numeric Conversions.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Numeric Conversions\obj\Debug\Numeric Conversions.pdb

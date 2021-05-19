@@ -1,0 +1,7 @@
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Nested Loops\bin\Debug\Nested Loops.exe.config
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Nested Loops\bin\Debug\Nested Loops.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Nested Loops\bin\Debug\Nested Loops.pdb
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Nested Loops\obj\Debug\Nested Loops.csprojAssemblyReference.cache
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Nested Loops\obj\Debug\Nested Loops.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Nested Loops\obj\Debug\Nested Loops.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Nested Loops\obj\Debug\Nested Loops.pdb

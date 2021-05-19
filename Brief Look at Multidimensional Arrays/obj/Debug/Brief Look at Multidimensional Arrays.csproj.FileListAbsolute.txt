@@ -1,0 +1,7 @@
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Brief Look at Multidimensional Arrays\bin\Debug\Brief Look at Multidimensional Arrays.exe.config
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Brief Look at Multidimensional Arrays\bin\Debug\Brief Look at Multidimensional Arrays.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Brief Look at Multidimensional Arrays\bin\Debug\Brief Look at Multidimensional Arrays.pdb
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Brief Look at Multidimensional Arrays\obj\Debug\Brief Look at Multidimensional Arrays.csprojAssemblyReference.cache
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Brief Look at Multidimensional Arrays\obj\Debug\Brief Look at Multidimensional Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Brief Look at Multidimensional Arrays\obj\Debug\Brief Look at Multidimensional Arrays.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Brief Look at Multidimensional Arrays\obj\Debug\Brief Look at Multidimensional Arrays.pdb

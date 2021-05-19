@@ -1,0 +1,13 @@
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\FundamentalsOfProgramming\bin\Debug\netcoreapp3.1\FundamentalsOfProgramming.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\FundamentalsOfProgramming\bin\Debug\netcoreapp3.1\FundamentalsOfProgramming.deps.json
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\FundamentalsOfProgramming\bin\Debug\netcoreapp3.1\FundamentalsOfProgramming.runtimeconfig.json
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\FundamentalsOfProgramming\bin\Debug\netcoreapp3.1\FundamentalsOfProgramming.runtimeconfig.dev.json
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\FundamentalsOfProgramming\bin\Debug\netcoreapp3.1\FundamentalsOfProgramming.dll
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\FundamentalsOfProgramming\bin\Debug\netcoreapp3.1\FundamentalsOfProgramming.pdb
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\FundamentalsOfProgramming\obj\Debug\netcoreapp3.1\FundamentalsOfProgramming.csprojAssemblyReference.cache
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\FundamentalsOfProgramming\obj\Debug\netcoreapp3.1\FundamentalsOfProgramming.AssemblyInfoInputs.cache
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\FundamentalsOfProgramming\obj\Debug\netcoreapp3.1\FundamentalsOfProgramming.AssemblyInfo.cs
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\FundamentalsOfProgramming\obj\Debug\netcoreapp3.1\FundamentalsOfProgramming.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\FundamentalsOfProgramming\obj\Debug\netcoreapp3.1\FundamentalsOfProgramming.dll
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\FundamentalsOfProgramming\obj\Debug\netcoreapp3.1\FundamentalsOfProgramming.pdb
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\FundamentalsOfProgramming\obj\Debug\netcoreapp3.1\FundamentalsOfProgramming.genruntimeconfig.cache

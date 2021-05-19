@@ -1,0 +1,6 @@
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Useful Array Metrods\bin\Debug\Useful Array Metrods.exe.config
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Useful Array Metrods\bin\Debug\Useful Array Metrods.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Useful Array Metrods\bin\Debug\Useful Array Metrods.pdb
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Useful Array Metrods\obj\Debug\Useful Array Metrods.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Useful Array Metrods\obj\Debug\Useful Array Metrods.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Useful Array Metrods\obj\Debug\Useful Array Metrods.pdb

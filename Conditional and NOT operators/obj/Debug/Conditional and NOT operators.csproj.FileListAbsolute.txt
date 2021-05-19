@@ -1,0 +1,6 @@
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Conditional and NOT operators\bin\Debug\Conditional and NOT operators.exe.config
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Conditional and NOT operators\bin\Debug\Conditional and NOT operators.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Conditional and NOT operators\bin\Debug\Conditional and NOT operators.pdb
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Conditional and NOT operators\obj\Debug\Conditional and NOT operators.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Conditional and NOT operators\obj\Debug\Conditional and NOT operators.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Conditional and NOT operators\obj\Debug\Conditional and NOT operators.pdb

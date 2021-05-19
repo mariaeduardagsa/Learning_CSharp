@@ -1,0 +1,7 @@
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Creating a Class\bin\Debug\Creating a Class.exe.config
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Creating a Class\bin\Debug\Creating a Class.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Creating a Class\bin\Debug\Creating a Class.pdb
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Creating a Class\obj\Debug\Creating a Class.csprojAssemblyReference.cache
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Creating a Class\obj\Debug\Creating a Class.csproj.CoreCompileInputs.cache
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Creating a Class\obj\Debug\Creating a Class.exe
+C:\Users\ramaral\Documents\FundamentalsOfProgramming C#\FundamentalsOfProgramming\Creating a Class\obj\Debug\Creating a Class.pdb
